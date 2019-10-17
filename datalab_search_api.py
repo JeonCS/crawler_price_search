@@ -11,8 +11,8 @@ import json
 import pandas as pd
 
 def datalab_search_api(c_name):
-    client_id = "suYvknmMq4r40QvKrUO7"
-    client_secret = "7VjhfdO2qO"
+    client_id = "client_id"
+    client_secret = "secret"
     url = "https://openapi.naver.com/v1/datalab/search"
     start_date = "2016-01-01"
     end_date = "2019-09-25"
